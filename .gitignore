@@ -6,6 +6,3 @@ src/writable/debugbar/
 src/writable/uploads/
 src/tests/_output/
 src/tests/report/
-
-server.crt
-server.key
